@@ -1,13 +1,14 @@
-# 19CS408--ATM
+# 19CS408-1.UML Diagrams for ATM & Banking Systems :
 
-# MADESWARAN M
-# 212223040106
+# NAME:MADESWARAN M
+# REG.NO:212223040106
 
 
 
 
 # USE CASE DIAGRAM
-![377513322-06643a94-59ed-4143-b597-3850e8d95687](https://github.com/user-attachments/assets/5cf54327-0dbb-4b5c-87a9-910b886c790f)
+![377574048-c64422a7-9594-4612-904f-30e6317f587b](https://github.com/user-attachments/assets/c951f8aa-fecc-4f7b-8b87-fadf3d6dabce)
+
 
 
 
